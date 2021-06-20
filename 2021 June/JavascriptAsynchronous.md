@@ -47,8 +47,6 @@
             2.  단점
                 1. ES2015 를 지원하지 않는 구형 브라우저에서는 사용할 수 없으며 Babel 을 통한 컴파일이 필요하다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/009a79f0-fe5e-4769-b2e9-3b856341bcd3/1_4lHHyfEhVB0LnQ3HlhSs8g.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/009a79f0-fe5e-4769-b2e9-3b856341bcd3/1_4lHHyfEhVB0LnQ3HlhSs8g.png)
-
 참고 : [https://blog.rhostem.com/posts/2020-04-13-fe-interview-handbook-js-2](https://blog.rhostem.com/posts/2020-04-13-fe-interview-handbook-js-2)
 
 ---
