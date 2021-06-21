@@ -1,4 +1,6 @@
 {
+  "projectName": "interview-en",
+  "projectOwner": "ready-techie",
   "files": ["README.md"],
   "imageSize": 100,
   "contributorsPerLine": 7,
