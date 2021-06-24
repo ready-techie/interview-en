@@ -24,7 +24,9 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://velog.io/@pranne1224"><img src="https://avatars.githubusercontent.com/u/15176192?v=4" width="100px;" alt=""/><br /><sub><b>AnneMayor</b></sub></a></td>
     <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px;" alt=""/><br /><sub><b>wooooooood</b></sub></a></td>
+    <td align="center"><a href="https://github.com/vivabin"><img src="https://avatars.githubusercontent.com/u/20276599?v=4" width="100px;" alt=""/><br /><sub><b>Deveen</b></sub></a></td>
   </tr>
 </table>
 
