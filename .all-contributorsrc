@@ -18,6 +18,15 @@
   },
   "skipCi": true,
   "contributors": [
+    {
+      "login": "wooooooood",
+      "name": "wooooooood",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40855076?v=4",
+      "profile": "https://github.com/wooooooood",
+      "contributions": [
+        "doc"
+      ]
+    }
   ],
   "repoType": "github",
   "repoHost": "https://github.com"
