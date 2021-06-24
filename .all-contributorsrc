@@ -19,12 +19,13 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "wooooooood",
-      "name": "wooooooood",
-      "avatar_url": "https://avatars.githubusercontent.com/u/40855076?v=4",
-      "profile": "https://github.com/wooooooood",
+      "login": "AnneMayor",
+      "name": "AnneMayor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15176192?v=4",
+      "profile": "https://velog.io/@pranne1224",
       "contributions": [
-        "doc"
+        "doc",
+        "content"
       ]
     }
   ],
